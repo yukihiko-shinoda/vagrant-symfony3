@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/composer" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/symfony_heroku/vendor/symfony/polyfill-php70" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>
